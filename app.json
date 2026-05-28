@@ -1,8 +1,8 @@
 {
-  "name": "PEAKY-BLINDER-MD",
-  "description": "Javascript WhatsApp bot made by ✦ Sang Lee ✦",
+  "name": "COMRADES CYBER",
+  "description": "Javascript WhatsApp bot made by ✦ COMRADE ✦",
   "logo": "https://files.catbox.moe/7drn23.jpg",
-  "keywords": ["PEAKY-BLINDER-MD"],
+  "keywords": ["COMRADES CYBER"],
   "repository": "https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD",
   "success_url": "/",
   "stack": "heroku-24",
@@ -21,7 +21,7 @@
     },
     "BOT_NAME": {
       "description": "write here your bot name.",
-      "value": "✦『 𝑷𝑬𝑨𝑲𝒀-𝑩𝑳𝑰𝑵𝑫𝑬𝑹-𝑴𝑫 V2』✦"
+      "value": "✦COMRADES CYBER✦"
     },
     "MODE": {
       "description": "Bot mode can be public, private, inbox or groups",
@@ -30,16 +30,16 @@
     },
     "DESCRIPTION": {
       "description": "add caption for menu and other",
-      "value": "*> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙿𝙴𝙰𝙺𝚈-𝙱𝙻𝙸𝙽𝙳𝙴𝚁-𝙼𝙳 ❄️*"
+      "value": "*> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ COMRADES CYBER ❄️*"
     },
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "254116266407",
+      "value": "254759531346",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "Sang Lee"
+      "value": "COMRADE"
     },
     "CUSTOM_REACT_EMOJIS": {
       "description": "custom react emojis",
